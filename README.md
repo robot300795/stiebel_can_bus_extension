@@ -8,8 +8,9 @@
     <br/>
   </p>
 </p>
-
-<img align="center" width="200" src="/images/renderings/case_encoder_oled.PNG">
+<p align="center">
+  <img width="300" src="/images/renderings/case_encoder_oled.PNG">
+</p>
 
 ## About The Project
 
