@@ -9,7 +9,7 @@
   </p>
 </p>
 
-<img img align="center" width="200" height="200" src="/images/renderings/case_encoder_oled.PNG">
+<img align="center" width="200" src="/images/renderings/case_encoder_oled.PNG">
 
 ## About The Project
 
